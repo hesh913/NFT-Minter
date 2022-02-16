@@ -26,7 +26,7 @@ An NFT mint generator that allows you to create an your ETH-721 NFT, using .jpg,
 
 
 ## Deployment
-Visit deployed Application https://arand013.github.io/NFT-Minter/ 
+Visit deployed Application https://hesh13.github.io/NFT-Minter/ 
 
 ## License
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
@@ -38,4 +38,3 @@ Visit deployed Application https://arand013.github.io/NFT-Minter/
 ## Questions
 If you have any questions about this project, contact us through our GitHub accounts:
 
- * [Alex Aranda](https://github.com/arand013).
